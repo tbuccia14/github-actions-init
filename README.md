@@ -1,1 +1,1 @@
-# github-actions-init
+# Exploring GitHub Actions
